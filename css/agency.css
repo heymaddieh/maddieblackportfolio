@@ -762,3 +762,7 @@ div.col-md-6{
       width: 600px;
     text-align: center;
 }
+
+p#desc{
+ width:70%; 
+}
